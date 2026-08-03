@@ -1,4 +1,3 @@
-# Binding-affinity-prediction
 # Protein-Ligand Binding Affinity Prediction Models
 
 A comprehensive machine learning framework for predicting protein-ligand binding affinity using multiple model architectures with mutation-aware and ligand-context-aware approaches.
